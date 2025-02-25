@@ -3,6 +3,7 @@ package com.example.messaging_app;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+// TODO: UC 1 task
 @RestController
 public class HelloMessage {
 

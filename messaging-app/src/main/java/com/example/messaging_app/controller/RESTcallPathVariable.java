@@ -1,4 +1,4 @@
-package com.example.messaging_app.rest_request;
+package com.example.messaging_app.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
